@@ -60,7 +60,7 @@ sections:
         subtitle: Custom meal plans
         text: >
           Drop the fad diets and learn proper macronutrient management to lose
-          weight and keep it off for good.
+          weight and keep it off.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
