@@ -11,7 +11,7 @@ sections:
     text: |+
       *   Initial assessment and goal-setting session
 
-      *   Customized workout and nutrition plans
+      *   Customized workout and nutrition plans available
 
       *   Bi-weekly check-ins and adjustments
 
