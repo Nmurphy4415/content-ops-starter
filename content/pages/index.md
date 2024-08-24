@@ -122,7 +122,7 @@ sections:
           Morpheus
         text: >
           Build confidence through improving your mindset. Continual, small
-          improvements.
+          improvements lead to a lifetime of change.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
