@@ -8,10 +8,17 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Customized training plans tailored to your goals
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: |+
+      *   Initial assessment and goal-setting session
+
+      *   Customized workout and nutrition plans
+
+      *   Bi-weekly check-ins and adjustments
+
+      *   Lifting form analysis and technique corrections
+
+      *   Nutritional guidance tailored to your goals
+
     actions:
       - label: Get started
         altText: ''
