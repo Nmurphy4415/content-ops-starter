@@ -93,7 +93,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Strength and fitness
-        subtitle: The Job Stuff
+        subtitle: What's your dream body?
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
