@@ -29,15 +29,6 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/careers",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "type": "Link",
             "label": "Instagram",
             "altText": "Instagram",
@@ -47,6 +38,15 @@
             "iconPosition": "left",
             "style": "secondary",
             "elementId": ""
+        },
+        {
+            "label": "Careers",
+            "altText": "Careers page",
+            "url": "/careers",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         },
         {
             "label": "Dropdown",
