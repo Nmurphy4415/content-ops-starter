@@ -239,35 +239,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - type: FeaturedPostsSection
-    title:
-      type: TitleBlock
-      text: About Coach Nate
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    posts:
-      - >-
-        content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
-      - content/pages/blog/five-tips-for-starting-a-startup.md
-    showThumbnail: true
-    showExcerpt: true
-    showDate: false
-    showAuthor: false
-    actions: []
-    elementId: ''
-    variant: small-list
-    colors: bg-light-fg-dark
-    hoverEffect: thin-underline
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
   - title:
       text: Generic Section With A Form
       color: text-dark
