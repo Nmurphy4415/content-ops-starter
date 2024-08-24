@@ -294,7 +294,7 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: contact coach nate
+      label: cash prize transformation challenges
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
