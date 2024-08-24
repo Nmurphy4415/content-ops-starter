@@ -176,7 +176,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: How it works
       color: text-dark
       styles:
         self:
