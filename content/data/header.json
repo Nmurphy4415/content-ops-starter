@@ -20,15 +20,6 @@
             "type": "Link"
         },
         {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "type": "Link",
             "label": "Instagram",
             "altText": "Instagram",
@@ -38,6 +29,15 @@
             "iconPosition": "left",
             "style": "secondary",
             "elementId": ""
+        },
+        {
+            "label": "Blog",
+            "altText": "Blog",
+            "url": "/blog",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         },
         {
             "label": "Careers",
