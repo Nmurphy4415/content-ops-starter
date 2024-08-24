@@ -66,7 +66,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Weight-loss and nutrition guidance
-        subtitle: Non-restrictive meal plans
+        subtitle: Customized meal plans
         text: >
           Finally drop the fad diets and learn proper macronutrient management
           techniques to lose weight and keep it off for good.
