@@ -56,7 +56,7 @@ sections:
         textAlign: left
   - type: FeaturedItemsSection
     title:
-      text: My Story
+      text: What's your goal?
       color: text-dark
       styles:
         self:
