@@ -67,10 +67,9 @@ sections:
       - type: FeaturedItem
         title: Weight-loss and nutrition guidance
         subtitle: Non-restrictive meal plans
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Finally drop the fad diets and learn proper macronutrient management
+          techniques to lose weight and keep it off for good.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
