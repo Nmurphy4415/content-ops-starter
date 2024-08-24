@@ -205,7 +205,7 @@ sections:
       text: EASY WORKOUT AND NUTRITION TRACKING
       color: text-dark
       type: TitleBlock
-    subtitle: Communicate directly with Nate
+    subtitle: Communicate with Nate and share progress
     text: >
       Everfit App includes training, nutrition, progress tracking, habit
       coaching and messaging at no extra cost to you.
