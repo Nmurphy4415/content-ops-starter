@@ -93,7 +93,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Strength and fitness
-        subtitle: What's your dream body?
+        subtitle: Custom workout plans
         text: >
           Let's achieve your dream strength and fitness goals. Muscle-ups at 40?
           Deadlifting 400 pounds at 50? Dream big!
