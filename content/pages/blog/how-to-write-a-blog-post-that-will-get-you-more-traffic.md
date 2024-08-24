@@ -3,7 +3,11 @@ type: PostLayout
 title: 10+ years lifting and nutrition experience
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2023-01-18'
-excerpt: Nathan has competed
+excerpt: >-
+  My journey into strength training and nutrition started seriously in 2013
+  after my uncle passed away. I witnessed first-hand the importance of regular
+  movement and quality nutrition. Since then, I've committed myself to constant
+  improvement of
 content: >-
   Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
   efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium
