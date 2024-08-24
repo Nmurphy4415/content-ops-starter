@@ -122,8 +122,7 @@ sections:
           Morpheus
         text: >
           We're given one opportunity at this life. It's up to us to make the
-          most of it, for ourselves and for everyone around us. Let's get that
-          mindset right so all the other changes stick!
+          most of it, for ourselves and for everyone around us.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
