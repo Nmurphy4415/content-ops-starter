@@ -59,8 +59,8 @@ sections:
         title: Weight-loss and nutrition guidance
         subtitle: Custom meal plans
         text: >
-          Drop the fad diets and learn proper macronutrient management
-          techniques to lose weight and keep it off for good.
+          Drop the fad diets and learn proper macronutrient management to lose
+          weight and keep it off for good.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
