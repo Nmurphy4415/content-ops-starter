@@ -66,7 +66,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Weight-loss and nutrition guidance
-        subtitle: Numbers Done
+        subtitle: Non-restrictive meal plans
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
