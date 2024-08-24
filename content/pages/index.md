@@ -252,7 +252,7 @@ sections:
       text: Sign up to receive latest offers and newsletters
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: ''
     text: >
       You'll receive invitations to workout and nutrition challenges, free
       resources and lots more!
