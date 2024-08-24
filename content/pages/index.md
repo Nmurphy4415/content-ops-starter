@@ -141,7 +141,7 @@ sections:
     actions:
       - label: DM to start
         altText: ''
-        url: /
+        url: '/https://www.instagram.com/nmurphyfitness/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
