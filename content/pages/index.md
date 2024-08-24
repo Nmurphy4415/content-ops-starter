@@ -249,7 +249,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Sign up to receive latest offers and newsletters
+      text: Sign up to receive latest challenges and newsletters
       color: text-dark
       type: TitleBlock
     subtitle: ''
