@@ -6,8 +6,10 @@ date: '2023-01-18'
 excerpt: >-
   My journey into strength training and nutrition started seriously in 2013
   after my uncle passed away. I witnessed first-hand the importance of regular
-  movement and quality nutrition. Since then, I've committed myself to constant
-  improvement of
+  movement and quality nutrition. Since then, I've committed myself to being the
+  best version of myself through strength training and proper nutrition. Over
+  the years I've mastered the manipulation of macronutrients to suit the
+  intended goal and how to create effective training programs.
 content: >-
   Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
   efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium
