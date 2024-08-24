@@ -207,8 +207,8 @@ sections:
       type: TitleBlock
     subtitle: Communicate directly with Nate
     text: >
-      Training, Nutrition, Progress tracking, Habit coaching and Messaging at no
-      extra cost to you.
+      Everfit App includes training, nutrition, progress tracking, habit
+      coaching and messaging at no extra cost to you.
     actions:
       - label: Get started
         url: /
