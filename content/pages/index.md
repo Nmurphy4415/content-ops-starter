@@ -122,7 +122,7 @@ sections:
           Build confidence through improving your mindset. Continual, small
           improvements lead to a lifetime of change.
         image:
-          url: /images/icon3.svg
+          url: /images/Untitled design (12).png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
