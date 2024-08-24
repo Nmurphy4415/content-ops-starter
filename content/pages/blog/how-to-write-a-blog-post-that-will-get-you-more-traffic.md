@@ -3,9 +3,7 @@ type: PostLayout
 title: 10+ years lifting and nutrition experience
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2023-01-18'
-excerpt: >-
-  This is where we'll dive into your current routines and habits and set short
-  and long-term goals for nutrition and fitness.
+excerpt: Nathan has competed
 content: >-
   Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
   efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium
