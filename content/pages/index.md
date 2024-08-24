@@ -19,16 +19,7 @@ sections:
 
       *   Nutritional guidance tailored to your goals
 
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       url: /images/IMG_2773.jpeg
       altText: Unblock your team boost your time to production preview
