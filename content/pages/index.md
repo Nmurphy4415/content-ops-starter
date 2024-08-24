@@ -205,7 +205,7 @@ sections:
       text: EASY WORKOUT AND NUTRITION TRACKING
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: Communicate directly with Nate
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
