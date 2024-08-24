@@ -255,7 +255,7 @@ sections:
     subtitle: ''
     text: >
       You'll receive invitations to workout and nutrition challenges, free
-      resources and lots more!
+      resources and lots more with an opportunity to win cash prizes.
     media:
       fields:
         - name: name
