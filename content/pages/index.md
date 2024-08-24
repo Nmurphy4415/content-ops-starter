@@ -162,6 +162,28 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
+  - title:
+      text: EASY WORKOUT AND NUTRITION TRACKING
+      color: text-dark
+      type: TitleBlock
+    subtitle: Communicate with Nate and share progress
+    text: >
+      Everfit App includes training, nutrition, progress tracking, habit
+      coaching and messaging at no extra cost to you.
+    actions: []
+    media:
+      url: /images/Screenshot 2024-08-24 at 9.16.54 AM.jpeg
+      altText: Fun feature preview
+      type: ImageBlock
+    badge:
+      label: included with coaching
+      color: text-primary
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+    type: GenericSection
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
@@ -192,28 +214,6 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
-  - title:
-      text: EASY WORKOUT AND NUTRITION TRACKING
-      color: text-dark
-      type: TitleBlock
-    subtitle: Communicate with Nate and share progress
-    text: >
-      Everfit App includes training, nutrition, progress tracking, habit
-      coaching and messaging at no extra cost to you.
-    actions: []
-    media:
-      url: /images/Screenshot 2024-08-24 at 9.16.54 AM.jpeg
-      altText: Fun feature preview
-      type: ImageBlock
-    badge:
-      label: included with coaching
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-    type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
