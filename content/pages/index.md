@@ -139,7 +139,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: DM to start
         altText: ''
         url: /
         showIcon: false
