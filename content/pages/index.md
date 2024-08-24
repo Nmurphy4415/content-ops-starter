@@ -216,13 +216,6 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
     media:
       url: /images/Screenshot 2024-08-24 at 9.16.54 AM.jpeg
       altText: Fun feature preview
