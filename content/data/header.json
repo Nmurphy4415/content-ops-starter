@@ -38,6 +38,17 @@
             "type": "Link"
         },
         {
+            "type": "Link",
+            "label": "Instagram",
+            "altText": "Instagram",
+            "url": "https://www.instagram.com/nmurphyfitness/",
+            "showIcon": true,
+            "icon": "instagram",
+            "iconPosition": "left",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
             "label": "Dropdown",
             "altText": "Dropdown",
             "links": [
@@ -68,17 +79,6 @@
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
-        },
-        {
-            "type": "Link",
-            "label": "Instagram",
-            "altText": "Instagram",
-            "url": "https://www.instagram.com/nmurphyfitness/",
-            "showIcon": true,
-            "icon": "instagram",
-            "iconPosition": "left",
-            "style": "secondary",
-            "elementId": ""
         }
     ],
     "secondaryLinks": [
