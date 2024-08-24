@@ -251,8 +251,8 @@ sections:
     text: >
       My journey into strength training and nutrition started seriously in 2013
       after my uncle passed away. I witnessed first-hand the importance of
-      regular movement and quality nutrition. Since then, I've committed myself
-      to being the best version of myself through strength training and proper
+      regular movement and quality nutrition. Since then, I've committed to
+      being the best version of myself through strength training and proper
       nutrition. Over the years I've mastered the manipulation of macronutrients
       to suit the intended goal and how to create effective training programs.
     actions: []
