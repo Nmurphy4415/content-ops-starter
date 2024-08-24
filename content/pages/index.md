@@ -274,13 +274,6 @@ sections:
           isRequired: true
           width: full
           type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-          type: TextareaFormControl
-          isRequired: false
       elementId: contact-form
       styles:
         self:
