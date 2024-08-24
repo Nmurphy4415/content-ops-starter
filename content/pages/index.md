@@ -98,7 +98,7 @@ sections:
           Let's achieve your dream strength and fitness goals. Muscle-ups at 40?
           Deadlifting 400 pounds at 50? Dream big!
         image:
-          url: /images/icon2.svg
+          url: /images/Untitled design (15).png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
