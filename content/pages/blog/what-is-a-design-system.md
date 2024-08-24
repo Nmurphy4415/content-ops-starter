@@ -4,9 +4,8 @@ title: Execute plan. Course correct. Achieve results.
 slug: what-is-a-design-system
 date: '2023-02-14'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  As you execute your workout and nutrition plans we'll adjust along the way as
+  needed. This will ensure you're crushing your goals and improving your life.
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
