@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Online Strength, Fitness & Nutrition Coaching'
+      text: 'Strength, Fitness & Nutrition Coaching'
       color: text-dark
       type: TitleBlock
     subtitle: Customized training plans tailored to your goals
