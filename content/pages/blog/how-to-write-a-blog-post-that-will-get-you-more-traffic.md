@@ -7,13 +7,6 @@ excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
   facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
   dolor quas ad odit ipsum qui quia eius.
-featuredImage:
-  url: /images/abstract-feature2.svg
-  altText: Thumbnail
-  type: ImageBlock
-  styles:
-    self:
-      borderRadius: medium
 content: >-
   Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
   efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium
