@@ -207,8 +207,8 @@ sections:
       type: TitleBlock
     subtitle: Communicate directly with Nate
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Training, Nutrition, Progress tracking, Habit coaching and Messaging at no
+      extra cost to you.
     actions:
       - label: Get started
         url: /
