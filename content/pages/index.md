@@ -209,13 +209,7 @@ sections:
     text: >
       Everfit App includes training, nutrition, progress tracking, habit
       coaching and messaging at no extra cost to you.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
+    actions: []
     media:
       url: /images/Screenshot 2024-08-24 at 9.16.54 AM.jpeg
       altText: Fun feature preview
