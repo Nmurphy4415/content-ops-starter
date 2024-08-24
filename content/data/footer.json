@@ -7,17 +7,17 @@
     "text": "Strength, nutrition and mindset\n\n coaching by Nathan\n",
     "socialLinks": [
         {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
-        },
-        {
             "type": "Social",
             "altText": "Instagram link",
             "url": "/https://www.instagram.com/nmurphyfitness/",
             "icon": "instagram",
             "elementId": ""
+        },
+        {
+            "altText": "Email link",
+            "url": "/",
+            "icon": "mail",
+            "type": "Social"
         }
     ],
     "legalLinks": [
