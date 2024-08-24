@@ -35,7 +35,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: services
+      label: online coach
       color: text-primary
       type: Badge
     elementId: ''
