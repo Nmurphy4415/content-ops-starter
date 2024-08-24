@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Sign up for initial assessment and goal-setting session
+title: 10+ years lifting and nutrition experience
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2023-01-18'
 excerpt: >-
