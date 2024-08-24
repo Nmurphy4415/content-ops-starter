@@ -242,7 +242,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: About Coach Nate
       color: text-dark
       styles:
         self:
