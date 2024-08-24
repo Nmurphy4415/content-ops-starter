@@ -280,6 +280,7 @@ sections:
           placeholder: Your message
           width: full
           type: TextareaFormControl
+          isRequired: false
       elementId: contact-form
       styles:
         self:
