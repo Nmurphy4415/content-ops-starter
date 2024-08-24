@@ -53,7 +53,7 @@ sections:
           - pb-16
           - pr-16
       subtitle:
-        textAlign: center
+        textAlign: left
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
