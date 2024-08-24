@@ -13,7 +13,7 @@ sections:
 
       *   Customized workout and nutrition plans available
 
-      *   Bi-weekly check-ins and adjustments
+      *   Regular check-ins and adjustments
 
       *   Lifting form analysis and technique corrections
 
