@@ -221,7 +221,7 @@ sections:
       altText: Fun feature preview
       type: ImageBlock
     badge:
-      label: Everfit app
+      label: included with coaching
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
