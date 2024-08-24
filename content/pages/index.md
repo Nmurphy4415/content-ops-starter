@@ -242,7 +242,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: About Coach Nate
       color: text-dark
       styles:
         self:
