@@ -249,7 +249,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Generic Section With A Form
+      text: Sign up to receive latest offers and newsletters
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
