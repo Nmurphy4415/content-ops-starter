@@ -7,7 +7,7 @@ sections:
       text: 'Strength, Fitness & Nutrition Coaching'
       color: text-dark
       type: TitleBlock
-    subtitle: Customized training plans tailored to your goals
+    subtitle: Customized plans tailored to your goals
     text: |+
       *   Initial assessment and goal-setting session
 
