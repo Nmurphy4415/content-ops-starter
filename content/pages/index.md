@@ -121,8 +121,8 @@ sections:
           There is a difference between knowing the path, and walking it -
           Morpheus
         text: >
-          We're given one opportunity at this life. It's up to us to make the
-          most of it, for ourselves and for everyone around us.
+          Build confidence through improving your mindset. Continual, small
+          improvements.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
