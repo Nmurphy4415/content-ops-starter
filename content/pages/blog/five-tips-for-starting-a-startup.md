@@ -3,9 +3,8 @@ title: Learn the tools and techniques
 slug: five-tips-for-starting-a-startup
 date: '2023-03-18'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  Understand how to track macros, how to follow the workout plans and much more
+  along the way.
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
