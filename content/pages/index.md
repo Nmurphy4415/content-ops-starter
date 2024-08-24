@@ -117,9 +117,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Mindset
-        subtitle: >-
-          There is a difference between knowing the path, and walking it -
-          Morpheus
+        subtitle: Growth and success
         text: >
           Build confidence through improving your mindset. Continual, small
           improvements lead to a lifetime of change.
