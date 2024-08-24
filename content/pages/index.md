@@ -94,10 +94,9 @@ sections:
               borderRadius: x-large
       - title: Strength and fitness
         subtitle: What's your dream body?
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Let's achieve your dream strength and fitness goals. Muscle-ups at 40?
+          Deadlifting 400 pounds at 50? Dream big!
         image:
           url: /images/icon2.svg
           altText: Featured icon two
