@@ -202,7 +202,7 @@ sections:
           - pr-16
         justifyContent: center
   - title:
-      text: Social Media Management
+      text: EASY WORKOUT AND NUTRITION TRACKING
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
