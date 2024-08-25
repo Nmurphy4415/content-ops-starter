@@ -168,8 +168,8 @@ sections:
       type: TitleBlock
     subtitle: Communicate with Nate and share progress
     text: >
-      Everfit App includes training, nutrition, progress tracking, habit
-      coaching and messaging at no extra cost to you.
+      Everfit App included with coaching makes training, nutrition, progress
+      tracking, habit coaching and messaging a breeze at no extra cost to you.
     actions: []
     media:
       url: /images/Screenshot 2024-08-24 at 9.16.54 AM.jpeg
