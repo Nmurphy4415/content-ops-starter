@@ -3,9 +3,11 @@ title: What's the point in setting goals?
 slug: top-ten-lessons-we-learned
 date: '2024-08-24'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  Have you ever had a vision of what you wanted to achieve but felt like it just
+  kept slipping
+
+  away?We’re good at talking the talk, but equally as good at letting
+  opportunity slip away.
 featuredImage:
   url: /images/abstract-feature2.svg
   altText: Thumbnail
