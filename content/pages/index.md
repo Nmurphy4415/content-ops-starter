@@ -11,7 +11,7 @@ sections:
     text: |+
       *   Initial assessment and goal-setting session
 
-      *   Customized workout plans and tracking
+      *   Customized workout plans and progress tracking
 
       *   Unlimited contact with Coach Nate
 
