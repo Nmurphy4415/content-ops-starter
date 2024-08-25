@@ -6,8 +6,8 @@ excerpt: >-
   Have you ever had a vision of what you wanted to achieve but felt like it just
   kept slipping
 
-  away?We’re good at talking the talk, but equally as good at letting
-  opportunity slip away.
+  away? We’re good at talking the talk, but equally as good at letting
+  opportunity slip away. Here's why we should set goals...
 featuredImage:
   url: /images/abstract-feature2.svg
   altText: Thumbnail
