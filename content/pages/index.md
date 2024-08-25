@@ -47,6 +47,16 @@ sections:
           - pr-16
       subtitle:
         textAlign: left
+  - title: Divider
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
+    type: DividerSection
   - title:
       text: EASY WORKOUT AND NUTRITION TRACKING
       color: text-dark
@@ -69,16 +79,6 @@ sections:
       self:
         alignItems: center
     type: GenericSection
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - type: FeaturedItemsSection
     title:
       text: What's your goal?
