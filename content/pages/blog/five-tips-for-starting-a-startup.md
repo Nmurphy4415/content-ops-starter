@@ -4,7 +4,8 @@ slug: five-tips-for-starting-a-startup
 date: '2023-03-18'
 excerpt: >-
   Get access to the Everfit App where you can track macros, see your workouts
-  and communicate directly with Nate
+  and track your progress and communicate directly with Nate for form
+  corrections and more.
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
