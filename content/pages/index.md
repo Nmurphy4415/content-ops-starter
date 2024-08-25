@@ -11,13 +11,15 @@ sections:
     text: |+
       *   Initial assessment and goal-setting session
 
-      *   Customized workout and nutrition plans available
+      *   Customized workout plans and tracking
 
-      *   Regular check-ins and adjustments
+      *   Unlimited contact with Coach Nate
 
       *   Lifting form analysis and technique corrections
 
       *   Nutritional guidance tailored to your goals
+
+      *   All self-contained in one simple to use app at no extra cost to you
 
     actions: []
     media:
