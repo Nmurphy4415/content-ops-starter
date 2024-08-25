@@ -1,5 +1,5 @@
 ---
-title: What
+title: What's the point in setting goals?
 slug: top-ten-lessons-we-learned
 date: '2024-08-24'
 excerpt: >-
