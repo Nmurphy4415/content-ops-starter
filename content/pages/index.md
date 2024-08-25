@@ -45,6 +45,28 @@ sections:
           - pr-16
       subtitle:
         textAlign: left
+  - title:
+      text: EASY WORKOUT AND NUTRITION TRACKING
+      color: text-dark
+      type: TitleBlock
+    subtitle: Communicate with Nate and share progress
+    text: >
+      Everfit App included with coaching makes training, nutrition, progress
+      tracking, habit coaching and messaging a breeze at no extra cost to you.
+    actions: []
+    media:
+      url: /images/Screenshot 2024-08-24 at 9.16.54 AM.jpeg
+      altText: Fun feature preview
+      type: ImageBlock
+    badge:
+      label: included with coaching
+      color: text-primary
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+    type: GenericSection
   - type: FeaturedItemsSection
     title:
       text: What's your goal?
@@ -152,28 +174,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
-      text: EASY WORKOUT AND NUTRITION TRACKING
-      color: text-dark
-      type: TitleBlock
-    subtitle: Communicate with Nate and share progress
-    text: >
-      Everfit App included with coaching makes training, nutrition, progress
-      tracking, habit coaching and messaging a breeze at no extra cost to you.
-    actions: []
-    media:
-      url: /images/Screenshot 2024-08-24 at 9.16.54 AM.jpeg
-      altText: Fun feature preview
-      type: ImageBlock
-    badge:
-      label: included with coaching
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-    type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
