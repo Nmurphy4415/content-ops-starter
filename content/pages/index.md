@@ -90,7 +90,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Weight loss or gain and nutrition guidance
+        title: Weight loss and nutrition guidance
         subtitle: Custom meal plans
         text: >
           Drop the fad diets and learn proper macronutrient management to lose
